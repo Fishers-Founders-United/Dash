@@ -2,7 +2,7 @@
 
 Welcome! This file has everything you need to get set up, understand the codebase, and start making changes. You can load this file directly into Claude Code and use it as your reference for all work on the dashboard.
 
-> **This file lives in the repo.** You can also find it at https://github.com/Fishers-Founder-United/Dash/blob/main/CONTRIBUTOR-GUIDE.md
+> **This file lives in the repo.** You can also find it at https://github.com/Fishers-Founders-United/Dash/blob/main/CONTRIBUTOR-GUIDE.md
 
 ---
 
@@ -44,7 +44,7 @@ Claude Code will read the guide, understand the project structure, make the chan
 
 ## Step 1: Get GitHub Access
 
-The repo is at: **https://github.com/Fishers-Founder-United/Dash**
+The repo is at: **https://github.com/Fishers-Founders-United/Dash**
 
 1. Create a GitHub account if you don't have one: https://github.com/signup
 2. Send your GitHub username to the project owner so they can add you as a collaborator
