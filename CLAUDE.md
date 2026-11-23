@@ -5,7 +5,7 @@
 Community dashboard for Indiana IoT Lab, Fishers IN. Runs on an 80" 4K TV, readable from 20-30 feet.
 
 ## Key Facts
-- **Live:** https://fishers-founder-united.github.io/Dash/
+- **Live:** https://fishers-founders-united.github.io/Dash/
 - **Kiosk:** append `?kiosk=true` to hide nav dots
 - **Stack:** Next.js 16, React 19, Tailwind v4, Framer Motion, static export to GitHub Pages
 - **Deploy:** push to `main` triggers GitHub Actions → GitHub Pages
