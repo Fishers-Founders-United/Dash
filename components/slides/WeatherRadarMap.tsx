@@ -42,8 +42,10 @@ export default function WeatherRadarMap() {
       });
       mapRef.current = map;
 
-      // Light base map
-      L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png").addTo(map);
+      // Light base map. CARTO basemaps require a key; this one is restricted
+      // to fishers-founders-united.github.io in the CARTO dashboard.
+      const CARTO_KEY = "cb1_5eql_1_0cfba58506ed829be5139eb5";
+      L.tileLayer(`https://basemaps.cartocdn.com/rastertiles/light_all/{z}/{x}/{y}.png?key=${CARTO_KEY}`).addTo(map);
 
       // NWS radar overlay
       const radar = L.tileLayer.wms(NWS_WMS_URL, {
