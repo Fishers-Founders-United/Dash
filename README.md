@@ -2,8 +2,8 @@
 
 A public, community-owned dashboard for the Fishers, Indiana startup, maker, and small business community. Designed to run on TV screens and be web-accessible.
 
-**Live:** https://fishers-founder-united.github.io/Dash/
-**Kiosk mode (no nav dots):** `https://fishers-founder-united.github.io/Dash/?kiosk=true`
+**Live:** https://fishers-founders-united.github.io/Dash/
+**Kiosk mode (no nav dots):** `https://fishers-founders-united.github.io/Dash/?kiosk=true`
 
 ---
 
